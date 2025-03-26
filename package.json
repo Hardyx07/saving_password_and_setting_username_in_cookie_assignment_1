@@ -4,5 +4,12 @@
   },
   "dependencies": {
     "servor": "^4.0.2"
-  }
+  },
+  "name": "saving_password_and_setting_username_in_cookie_assignment_1",
+  "version": "1.0.0",
+  "description": "- Understand how to manipulate cookies in web development to track and update a count.\r - Learn to implement client-side logic to increase a cookie-based count with each user interaction.",
+  "main": "script.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
